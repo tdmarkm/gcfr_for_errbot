@@ -1,0 +1,9 @@
+[Core]
+Name = GCFR_Pythonised
+Module = GCFR_Pythonised
+
+[Documentation]
+Description = This is a Pythonised version of GCFR
+
+[Python]
+Version = 2+
